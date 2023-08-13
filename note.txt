@@ -1,0 +1,9 @@
+Twitter api
+   api key         kL1XTAwLH1AYwchyvYMfKYvO5
+   secret               WKONQT6Z7Pma7HYYz0yjaJgqsKfHcpDQ5HWZbsO4tnFdXYQfN3
+
+   access token          1484820034522599424-qnvmzEFRbOrCnqeEDRqSGyqgNyMNMd
+   access token secret    29XOCqiCIFuXr1c7WR5iqHJkQEAshktDWn4S4w02wNCtq
+
+  bearer token        AAAAAAAAAAAAAAAAAAAAAMVbpQEAAAAA9MgeBAEnvjsLbwX0WGgNSnpXh9w%3DVrWMda8W8ZNEPnLY1Cm6aWno5mqSlrbVQwMUmqd7qE5gH6xZ7p
+
