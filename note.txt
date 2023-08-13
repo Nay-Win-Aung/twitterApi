@@ -7,3 +7,11 @@ Twitter api
 
   bearer token        AAAAAAAAAAAAAAAAAAAAAMVbpQEAAAAA9MgeBAEnvjsLbwX0WGgNSnpXh9w%3DVrWMda8W8ZNEPnLY1Cm6aWno5mqSlrbVQwMUmqd7qE5gH6xZ7p
 
+
+  Run the project
+  python app.py
+
+
+  Call
+  http://localhost:5000
+
