@@ -1,0 +1,32 @@
+API Key
+RCROzaywVIoLYVrimUs98bomf
+
+API Key Secret
+pmiei750thDfdNZCMTY8bhIQcTISx6gDKYNITHJ7FuZaY9o5FD
+
+Bearer Token
+AAAAAAAAAAAAAAAAAAAAALsYpgEAAAAAbX6POrqGuaEFifNKiaWsOq0SvR8%3Ddhf2F2T1Y6xHQRdvurtZnLx0t3wftWuo3fab5SzlmTCXB03GeC
+
+Access Token
+
+
+Access Token Secret
+
+
+Client ID
+YnNaWW5JWVlISmFhNzAxVzQ3cWw6MTpjaQ
+
+Client Secret
+UO_2Po-PV9otCpPnc-wLfMkPL5Bzv4ODeKbtk6qIsZV9l12U7D
+UO_2Po-PV9otCpPnc-wLfMkPL5Bzv4ODeKbtk6qIsZV9l12U7D
+
+
+@naywina83537187 => 1484820034522599424
+
+
+NayWinA83537187
+
+callback URL
+
+client_id
+27662523
