@@ -4,10 +4,10 @@ import tweepy
 app = Flask(__name__)
 
 # Twitter API keys
-consumer_key = " kL1XTAwLH1AYwchyvYMfKYvO5"
-consumer_secret = "WKONQT6Z7Pma7HYYz0yjaJgqsKfHcpDQ5HWZbsO4tnFdXYQfN3"
-access_token = "1484820034522599424-qnvmzEFRbOrCnqeEDRqSGyqgNyMNMd"
-access_token_secret = "29XOCqiCIFuXr1c7WR5iqHJkQEAshktDWn4S4w02wNCtq"
+consumer_key = "QUVIeEVNYW1UakktZTdiOHR0a2s6MTpjaQ"
+consumer_secret = "VQTBa2riZRO6_PB_N31qcVOrghN5itk8mCo7TLINLiE72s_Y5r"
+access_token = "1693714433342889984-n4MudpiOaeSZxsmhQsfVs2IwNwYamD"
+access_token_secret = " GEAeewgBRgHMrCbA2E5b4AF3oCS0RK5uEXZ8MUieRbYQG"
 
 # Authenticate with Twitter API
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
